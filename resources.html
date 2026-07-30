@@ -15,14 +15,16 @@
   <!-- Header / Navigation -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="index.html" class="logo">🍎 Peyton Kurzi, M.Ed.</a>
+      <a href="#home" class="logo">🍎 Ms. Peyton Kurzi, M.Ed. | First Grade Teacher</a>
       <nav class="nav" aria-label="Main navigation">
-        <ul>
-          <li><a href="index.html#home">Home</a></li>
-          <li><a href="index.html#profile">Profile</a></li>
-          <li><a href="resources.html" class="active">Resources / Shop</a></li>
-          <li><a href="index.html#story">Background</a></li>
-        </ul>
+          <ul>
+              <li><a href="index.html#home">Home</a></li>
+              <li><a href="index.html#profile">Profile</a></li>
+              <li><a href="index.html#education">Education</a></li>
+              <li><a href="index.html#activities">Leadership</a></li>
+              <li><a href="resources.html" class="active">Resources</a></li>
+              <li><a href="index.html#story">Background</a></li>
+          </ul>
       </nav>
       <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
         <span></span><span></span><span></span>
@@ -33,14 +35,51 @@
   <main>
     <!-- Shop Hero Section -->
     <section class="hero teacher-hero">
-      <div class="container hero-container text-center">
-        <div class="hero-content" style="max-width: 800px; margin: 0 auto;">
-          <p class="eyebrow">TPT-Style Open-Source Marketplace</p>
-          <h1>Classroom Resources & Units</h1>
-          <p class="lead">Evidence-based, kid-tested primary literacy centers, phonics bundles, and first-grade management frameworks designed from my M.Ed. research.</p>
-        </div>
-      </div>
-    </section>
+        <div class="container hero-container">
+
+            <div class="hero-image-wrapper">
+                <img src="headshotimage.png"
+                     alt="Peyton Kurzi"
+                     class="teacher-portrait">
+            </div>
+
+            <div class="hero-content">
+
+                <p class="eyebrow">
+                    Evidence-Based Teaching Resources
+                </p>
+
+                <h1>Classroom Resources & Units</h1>
+
+                <p class="lead">
+                    Evidence-based literacy centers, phonics bundles,
+                    math stations, and classroom management resources
+                    created from classroom experience and graduate research.
+                </p>
+
+                <p class="hero-desc">
+                    Every resource is designed with engaging,
+                    colorful first-grade classrooms in mind. My goal is
+                    to provide teachers with practical, hands-on materials
+                    that make learning meaningful while saving valuable
+                    planning time.
+                </p>
+
+                <div class="hero-actions">
+                    <a href="#featured" class="btn btn-primary">
+                        Browse Resources
+                    </a>
+
+                    <a href="mailto:peytonkurzi@gmail.com"
+                       class="btn btn-outline">
+                        Request a Resource
+                    </a>
+                </div>
+
+          </div>
+
+    </div>
+</section>
 
     <!-- Filter / Category Bar -->
     <section class="section-alt" style="padding: 1.5rem 0; border-bottom: 1px solid var(--border-color, #e2e8f0);">
@@ -54,7 +93,7 @@
     </section>
 
     <!-- Product Grid (TPT Style) -->
-    <section class="section">
+    <section id="featured" class="section">
       <div class="container">
         <h2 class="section-title">Featured Teaching Bundles</h2>
         <div class="cards-grid">
