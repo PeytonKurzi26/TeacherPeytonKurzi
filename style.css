@@ -1,8 +1,8 @@
 /* ============================================================
    Peyton Kurzi – Professional Educator Portfolio
    LLM-NOTE: Design system uses Inter (body) + Playfair Display (headings).
-   Color palette: soft teal primary (#0d9488), warm neutrals, high readability.
-   Fully responsive, mobile-first. Accessibility-focused (focus states, contrast).
+   Color palette: warm classroom green tones, high readability.
+   Fully responsive, mobile-first. Accessibility-focused.
    ============================================================ */
 
 :root {
@@ -10,10 +10,10 @@
   --color-surface: #ffffff;
   --color-text: #1c1917;
   --color-text-muted: #57534e;
-  --color-primary: #0d9488;
-  --color-primary-dark: #0f766e;
+  --color-primary: #2e7d32; /* Warm, professional educator green */
+  --color-primary-dark: #1b5e20;
   --color-border: #e7e5e4;
-  --color-alt: #f5f5f4;
+  --color-alt: #f4f8f5; /* Subtle soft green-tinted neutral alternate section */
   --font-sans: "Inter", system-ui, -apple-system, sans-serif;
   --font-display: "Playfair Display", Georgia, serif;
   --radius: 12px;
@@ -130,10 +130,38 @@ ul {
   transition: 0.25s ease;
 }
 
-/* ---------- Hero ---------- */
-.hero {
-  padding: 5rem 0 4.5rem;
-  background: linear-gradient(165deg, #f0fdfa 0%, #fafaf9 55%);
+/* ---------- Hero & Teacher Portrait Layout ---------- */
+.teacher-hero {
+  padding: 4.5rem 0 4rem;
+  background: linear-gradient(135deg, #fefefe 0%, #f0f7f1 100%);
+}
+
+.hero-container {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+@media (min-width: 768px) {
+  .hero-container {
+    flex-wrap: nowrap;
+  }
+}
+
+.hero-image-wrapper {
+  flex-shrink: 0;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.teacher-portrait {
+  width: 210px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+  box-shadow: 0 12px 30px rgba(46, 125, 50, 0.18);
 }
 
 .eyebrow {
