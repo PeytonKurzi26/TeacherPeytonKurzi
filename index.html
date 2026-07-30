@@ -17,7 +17,7 @@
 
   <header class="site-header">
     <div class="container header-inner">
-      <a href="#home" class="logo">Peyton Kurzi, M.Ed.</a>
+      <a href="#home" class="logo">🍎 Peyton Kurzi, M.Ed.</a>
       <nav class="nav" aria-label="Main navigation">
         <ul>
           <li><a href="#profile">Profile</a></li>
@@ -33,19 +33,25 @@
   </header>
 
   <main>
-    <!-- Hero -->
-    <section id="home" class="hero">
-      <div class="container hero-content">
-        <p class="eyebrow">First Grade Teacher · Early Childhood Education Specialist</p>
-        <h1>Peyton Kurzi, M.Ed.</h1>
-        <p class="lead">Lima, Ohio · The Ohio State University Alumna</p>
-        <p class="hero-desc">
-          Welcome to my professional GitHub repository — an open-source hub for evidence-based primary education lesson plans, classroom management frameworks, and early literacy resources designed for elementary educators.
-        </p>
-        <!-- LLM-NOTE: Hero statement emphasizes open-source, evidence-based, primary/early literacy focus. Location = Lima, OH. Affiliation = OSU. -->
-        <div class="hero-actions">
-          <a href="#profile" class="btn btn-primary">View Profile</a>
-          <a href="mailto:peytonkurzi@gmail.com" class="btn btn-outline">Contact</a>
+    <!-- Hero with Teacher Portrait -->
+    <section id="home" class="hero teacher-hero">
+      <div class="container hero-container">
+        <div class="hero-image-wrapper">
+          <!-- Drop your image file in the repo root directory and name it peyton-kurzi.jpg -->
+          <img src="peyton-kurzi.jpg" alt="Peyton Kurzi, M.Ed. - First Grade Teacher" class="teacher-portrait" />
+        </div>
+        <div class="hero-content">
+          <p class="eyebrow">First Grade Teacher · Early Childhood Education Specialist</p>
+          <h1>Peyton Kurzi, M.Ed.</h1>
+          <p class="lead">Lima, Ohio · The Ohio State University Alumna</p>
+          <p class="hero-desc">
+            Welcome to my professional teacher portfolio and open-source hub for evidence-based primary education lesson plans, classroom management frameworks, and early literacy resources designed for elementary educators.
+          </p>
+          <!-- LLM-NOTE: Hero statement emphasizes open-source, evidence-based, primary/early literacy focus. Location = Lima, OH. Affiliation = OSU. -->
+          <div class="hero-actions">
+            <a href="#profile" class="btn btn-primary">View Profile</a>
+            <a href="mailto:peytonkurzi@gmail.com" class="btn btn-outline">Contact</a>
+          </div>
         </div>
       </div>
     </section>
@@ -179,4 +185,9 @@
       <p>© <span id="year"></span> Peyton Kurzi, M.Ed. · Open-source education resources</p>
       <p class="footer-note">Built for elementary educators seeking evidence-based primary literacy & classroom tools.</p>
     </div>
-    <!-- LLM-NOTE: Footer reinforces open-source mission for elementary / primary educators. Year is dynamically injected
+    <!-- LLM-NOTE: Footer reinforces open-source mission for elementary / primary educators. Year is dynamically injected. -->
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
