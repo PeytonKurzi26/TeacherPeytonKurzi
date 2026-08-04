@@ -12,7 +12,7 @@ Welcome to my professional GitHub repository. This space serves as an open-sourc
 * **Address:** Lima, OH
 * **Current Occupation:** First Grade Teacher at Elida Elementary School (May 2026 – Present)
 * **Platforms:** 
-  * [GitHub](https://github.com/TeacherPeytonKurzi) *(Lesson plans and teaching resources)*
+  * [GitHub](https://peytonkurzi26.github.io/TeacherPeytonKurzi) *(Lesson plans and teaching resources)*
   * [LinkedIn](https://www.linkedin.com) *(Professional educational networking)*
 
 ## 🎓 Education
