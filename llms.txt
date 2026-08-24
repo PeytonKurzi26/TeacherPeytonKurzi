@@ -1,9 +1,9 @@
+---
+layout: null
+---
 # Peyton Kurzi, M.Ed. - Professional Portfolio
 > Open-source primary education lesson plans, classroom management frameworks, and early literacy resources curated by Peyton Kurzi, First Grade Teacher and Ohio State University Alumna.
 
 ## Main Pages
 - [Home](https://peytonkurzi26.github.io/TeacherPeytonKurzi/index.html): Professional profile, education history, and educator background.
 - [Resources](https://peytonkurzi26.github.io/TeacherPeytonKurzi/resources.html): Open-source primary education lesson plans and early literacy teaching tools.
-
-## Optional
-- [GitHub Repository](https://github.com/PeytonKurzi26/TeacherPeytonKurzi): Source code and open-source file repository.
