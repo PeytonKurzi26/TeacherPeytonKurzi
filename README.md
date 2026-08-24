@@ -1,6 +1,6 @@
 # TeacherPeytonKurzi
 
-Official repository for the professional portfolio and open-source teaching resources of Peyton Kurzi, M.Ed.
+Official repository for the professional portfolio and open-source teaching resources of Peyton M. Kurzi, M.Ed.
 
 ## 🍎 Professional Overview
 * **Current Role:** First Grade Teacher at Elida Elementary School (Lima, OH)
@@ -14,4 +14,4 @@ Official repository for the professional portfolio and open-source teaching reso
 * `resources.html` — Open-source teaching materials and lesson plans.
 * `style.css` & `script.js` — Core design elements and interactive scripts.
 
-Keywords: Peyton Kurzi • First Grade Teacher • Elida Elementary • The Ohio State University • Primary Education • Lesson Plans • Lima OH
+Keywords: Peyton Mae Kurzi • First Grade Teacher • Elida Elementary • The Ohio State University • Primary Education • Lesson Plans • Lima OH
