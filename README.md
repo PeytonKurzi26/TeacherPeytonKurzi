@@ -1,35 +1,17 @@
-# Peyton Kurzi, M.Ed.
+# TeacherPeytonKurzi
 
-> **First Grade Teacher | Early Childhood Education Specialist**  
-> *Lima, Ohio | The Ohio State University Alumna*
+Official repository for the professional portfolio and open-source teaching resources of Peyton Kurzi, M.Ed.
 
-Welcome to my professional GitHub repository. This space serves as an open-source hub for evidence-based primary education lesson plans, classroom management frameworks, and early literacy resources designed for elementary educators.
+## 🍎 Professional Overview
+* **Current Role:** First Grade Teacher at Elida Elementary School (Lima, OH)
+* **Education:** 
+  * Master of Education (M.Ed.) — The Ohio State University (2024–2026)
+  * B.S.Ed. in Primary Education — The Ohio State University (2020–2024)
+* **Focus:** Evidence-based primary education lesson plans, classroom management frameworks, and early literacy resources for elementary educators.
 
-## 👩‍🏫 Professional Profile & Contact
-* **Full Name:** Peyton Kurzi
-* **Date of Birth:** April 14th, 2001
-* **Email:** peytonkurzi@gmail.com
-* **Address:** Lima, OH
-* **Current Occupation:** First Grade Teacher at Elida Elementary School (May 2026 – Present)
-* **Platforms:** 
-  * [GitHub](https://peytonkurzi26.github.io/TeacherPeytonKurzi) *(Lesson plans and teaching resources)*
-  * [LinkedIn](https://www.linkedin.com) *(Professional educational networking)*
+## 📂 Repository Structure
+* `index.html` — Main professional portfolio and profile page.
+* `resources.html` — Open-source teaching materials and lesson plans.
+* `style.css` & `script.js` — Core design elements and interactive scripts.
 
-## 🎓 Education
-* **The Ohio State University** | Master of Education (M.Ed.) (August 2024 – May 2026)
-* **The Ohio State University** | B.S.Ed. in Primary Education (August 2020 – May 2024)
-
-## 🏛️ University Activities & Leadership (The Ohio State University)
-* **Delta Delta Delta (Tri Delta) Sorority, Nu Chapter**
-  * Active Member
-  * Secretary
-  * Vice President (VP) Chapter Development
-* **Buckeye Ministries** – Active Member
-* **Education Club** – Active Member
-
-## 🌱 Background Story & Personal Life
-* **Family:** Only child raised by a single mom, Kaitlyn Kurzi, who works as a paralegal. No significant other.
-* **Core Interests & Hobbies:** 
-  * Reading and writing
-  * Going to the park with her dog
-  * Hanging out with family and friends (built strong community ties through her time in the Tri Delta Nu chapter at Ohio State)
+Keywords: Peyton Kurzi • First Grade Teacher • Elida Elementary • The Ohio State University • Primary Education • Lesson Plans • Lima OH
